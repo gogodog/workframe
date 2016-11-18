@@ -18,7 +18,7 @@ import com.swetake.util.Qrcode;
 
 /**
  * 二维码
- * @author cott.wen 创建时间：2015年4月10日
+ * 创建人：FH 创建时间：2015年4月10日
  * @version
  */
 public class TwoDimensionCode {

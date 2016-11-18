@@ -24,7 +24,10 @@ import com.fh.util.Const;
 
 /** 
  * 类名称：SecCodeController
- * @author cott.wen
+ * 类描述： 
+ * 作者单位： 
+ * 联系方式：
+ * @version
  */
 @Controller
 @RequestMapping("/code")

@@ -35,7 +35,7 @@ import com.fh.service.${packageName}.${objectNameLower}.${objectName}Service;
 
 /** 
  * 类名称：${objectName}Controller
- * @author cott.wen 
+ * 创建人：FH 
  * 创建时间：${nowDate?string("yyyy-MM-dd")}
  */
 @Controller

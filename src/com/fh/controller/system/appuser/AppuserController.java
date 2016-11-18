@@ -36,7 +36,7 @@ import com.fh.util.PageData;
 
 /** 
  * 类名称：AppuserController
- * @author cott.wen 
+ * 创建人：FH 
  * 创建时间：2014年6月28日
  * @version
  */

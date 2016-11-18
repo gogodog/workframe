@@ -42,7 +42,7 @@ import com.fh.service.information.pictures.PicturesService;
 
 /** 
  * 类名称：PicturesController
- * @author cott.wen 
+ * 创建人：FH 
  * 创建时间：2015-03-21
  */
 @Controller

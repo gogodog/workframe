@@ -29,7 +29,7 @@ import com.fh.util.mail.SimpleMailSender;
 
 /** 
  * 类名称：HeadController
- * @author cott.wen 
+ * 创建人：FH 
  * 创建时间：2014年8月16日
  * @version
  */

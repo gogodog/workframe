@@ -9,7 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
  * 
 * 类名称：MyExceptionResolver.java
 * 类描述： 
-* @author cott.wen
+* @author FH
 * 作者单位： 
 * 联系方式：QQ313596790
 * @version 1.0

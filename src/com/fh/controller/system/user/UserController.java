@@ -46,7 +46,7 @@ import com.fh.util.Tools;
 
 /** 
  * 类名称：UserController
- * @author cott.wen 
+ * 创建人：FH 
  * 创建时间：2014年6月28日
  * @version
  */

@@ -23,7 +23,7 @@ import com.fh.util.TwoDimensionCode;
 
 /** 
  * 类名称：ToolController
- * @author cott.wen 
+ * 创建人：FH 
  * 创建时间：2015年4月4日
  * @version
  */

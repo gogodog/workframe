@@ -34,7 +34,7 @@ import com.fh.service.weixin.imgmsg.ImgmsgService;
 
 /** 
  * 类名称：ImgmsgController
- * @author cott.wen 
+ * 创建人：FH 
  * 创建时间：2015-05-10
  */
 @Controller
