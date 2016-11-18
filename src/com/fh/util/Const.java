@@ -3,7 +3,7 @@ package com.fh.util;
 import org.springframework.context.ApplicationContext;
 /**
  * 项目名称：
- * @author:fh
+ * @author cott.wen
  * 
 */
 public class Const {

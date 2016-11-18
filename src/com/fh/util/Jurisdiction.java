@@ -11,7 +11,7 @@ import com.fh.entity.system.Menu;
 
 /**
  * 权限处理
- * @author:fh
+ * @author cott.wen
 */
 public class Jurisdiction {
 

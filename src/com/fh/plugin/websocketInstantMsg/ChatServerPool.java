@@ -11,7 +11,7 @@ import org.java_websocket.WebSocket;
 
 /**
  * 即时通讯
- * @author FH
+ * @author cott.wen
  * QQ 313596790
  * 2015-5-16
  */

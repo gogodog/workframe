@@ -26,7 +26,7 @@ import com.fh.util.Jurisdiction;
 
 /** 
  * 类名称：OnlineManagerController
- * 创建人：FH 
+ * @author cott.wen 
  * 创建时间：2015-05-25
  */
 @Controller

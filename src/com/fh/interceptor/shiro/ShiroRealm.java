@@ -11,7 +11,7 @@ import org.apache.shiro.subject.PrincipalCollection;
 
 
 /**
- * @author fh
+ * @author cott.wen
  *  2015-3-6
  */
 public class ShiroRealm extends AuthorizingRealm {

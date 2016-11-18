@@ -21,7 +21,7 @@ import com.fh.plugin.websocketOnline.OnlineChatServer;
 import com.fh.controller.base.BaseController;
 
 /**
- * 创建人：FH 
+ * @author cott.wen 
  * 创建时间：2014年2月17日
  * @version
  */

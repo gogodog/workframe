@@ -30,7 +30,7 @@ public class SmsUtil {
 	
 	public static void main(String [] args) {
 		
-		sendSms2("13511111111","您的验证码是：1111。请不要把验证码泄露给其他人。");
+		sendSms2("13500000000","您的验证码是：111122。请不要把验证码泄露给其他人。");
 		//sendSmsAll(List<PageData> list)
 		
 		//sendSms1();
@@ -63,7 +63,7 @@ public class SmsUtil {
 			System.out.println("短信提交失败");
 		}
 		 //System.out.println(PostData);
- 	     String ret = SMS(PostData, "http://sms.106jiekou.com/utf8/sms.aspx");
+ 	     String ret = SMS(PostData, "http://sms.jiekou.com/utf8/sms.aspx");
  	     System.out.println(ret);
  	   /*  
  	   100			发送成功
@@ -126,7 +126,7 @@ public class SmsUtil {
 	 * 短信商 二  http://www.ihuyi.com/ =====================================================================================
 	 * 
 	 */
-	private static String Url = "http://106.ihuyi.com/webservice/sms.php?method=Submit";
+	private static String Url = "http://106.yidong.com/webservice/sms.php?method=Submit";
 	
 	
 	

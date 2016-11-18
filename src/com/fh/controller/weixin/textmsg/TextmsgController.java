@@ -36,7 +36,7 @@ import com.fh.service.weixin.textmsg.TextmsgService;
 
 /** 
  * 类名称：TextmsgController
- * 创建人：FH 
+ * @author cott.wen 
  * 创建时间：2015-05-05
  */
 @Controller
