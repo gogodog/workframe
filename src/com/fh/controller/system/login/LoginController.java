@@ -90,7 +90,7 @@ public class LoginController extends BaseController {
 		PageData pd = new PageData();
 		pd = this.getPageData();
 		String errInfo = "";
-		String KEYDATA[] = pd.getString("KEYDATA").replaceAll("AABBCCDDCOTT", "").replaceAll("DDCCBBAACOTT", "").split(",COTT,");
+		String KEYDATA[] = pd.getString("KEYDATA").split(",COTT,");
 		
 		if(null != KEYDATA && KEYDATA.length == 3){
 			//shiro管理的session

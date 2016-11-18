@@ -110,7 +110,7 @@
 				
 				var loginname = $("#loginname").val();
 				var password = $("#password").val();
-				var code = "AABBCCDDCOTT"+loginname+",fh,"+password+"DDCCBBAACOTT"+",fh,"+$("#code").val();
+				var code = loginname+",COTT,"+password+",COTT,"+$("#code").val();
 				$.ajax({
 					type: "POST",
 					url: 'login_login',
